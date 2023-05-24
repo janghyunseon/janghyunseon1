@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/janghyunseon1/static/css/main.1ce70f1e.css",
+    "main.js": "/janghyunseon1/static/js/main.ed5a4bc4.js",
+    "static/js/787.914562a7.chunk.js": "/janghyunseon1/static/js/787.914562a7.chunk.js",
+    "index.html": "/janghyunseon1/index.html",
+    "main.1ce70f1e.css.map": "/janghyunseon1/static/css/main.1ce70f1e.css.map",
+    "main.ed5a4bc4.js.map": "/janghyunseon1/static/js/main.ed5a4bc4.js.map",
+    "787.914562a7.chunk.js.map": "/janghyunseon1/static/js/787.914562a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce70f1e.css",
+    "static/js/main.ed5a4bc4.js"
+  ]
+}
